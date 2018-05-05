@@ -1,0 +1,9 @@
+[submodule "json"]
+	path = json
+	url = https://github.com/nlohmann/json
+[submodule "xtensor"]
+	path = xtensor
+	url = https://github.com/QuantStack/xtensor
+[submodule "xtl"]
+	path = xtl
+	url = https://github.com/QuantStack/xtl
